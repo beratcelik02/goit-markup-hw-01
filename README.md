@@ -1,1 +1,1 @@
-# goit-markup-hw-01
+# GoIT Full-Stack Developer homework #1.
