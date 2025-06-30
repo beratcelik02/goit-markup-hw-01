@@ -1,3 +1,3 @@
-# GoIT Full-Stack Developer homework #1.
+# goit-markup-hw-01
 
 HTML homework.
